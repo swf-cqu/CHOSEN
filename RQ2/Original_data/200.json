@@ -1,0 +1,21 @@
+{
+  "classFile": "EventStateTest",
+  "className": "EventStateTest",
+  "packages": "org.apache.commons.math.ode.events",
+  "methodInfos": [],
+  "addLines": [
+    25
+  ],
+  "delLines": [
+    20
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/apache/commons/math/ode/events/EventStateTest.java",
+  "pro_Commit": "26c1c29575499d622fc026fcbf40fde3c210d6d9",
+  "pro_Date": "2011-02-11 05:07:53",
+  "sha1": "57b0fa165b8f75e0830d5dbf81d4d644df67a1cd",
+  "file_Date": "2011-03-21 01:24:14",
+  "projectName": "commons-math",
+  "commitID": "96c2ce398318fdc1c4ebb865ef06061e72c6e5fd",
+  "label": false
+}

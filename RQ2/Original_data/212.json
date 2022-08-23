@@ -1,0 +1,32 @@
+{
+  "classFile": "TestLongRange",
+  "className": "TestLongRange",
+  "packages": "org.apache.commons.functor.range",
+  "methodInfos": [
+    {
+      "md5": "EMMVCTCwYqt05+VX6Ayk5g==",
+      "methodName": "testGenerateListExample",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    28,
+    85,
+    87,
+    94,
+    96
+  ],
+  "delLines": [
+    85,
+    93
+  ],
+  "type": "MODIFY",
+  "path": "core/src/test/java/org/apache/commons/functor/range/TestLongRange.java",
+  "pro_Commit": "1004abda7fe5638860661f4cbe81be2e4bddf90c",
+  "pro_Date": "2013-11-14 01:54:37",
+  "sha1": "50a144b334ba04d4ab05d27042cdce9ba011daaa",
+  "file_Date": "2013-11-14 01:54:37",
+  "projectName": "commons-functor",
+  "commitID": "1004abda7fe5638860661f4cbe81be2e4bddf90c",
+  "label": true
+}

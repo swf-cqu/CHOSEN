@@ -1,0 +1,21 @@
+{
+    "classFile": "PredicatedBagTest",
+    "className": "PredicatedBagTest",
+    "packages": "org.apache.commons.collections4.bag",
+    "methodInfos": [{
+        "md5": "OfnIqR7dGQVu3WaAhSV11A==",
+        "methodName": "testIllegalDecorate",
+        "parameters": "[]"
+    }],
+    "addLines": [107],
+    "delLines": [107],
+    "type": "MODIFY",
+    "path": "src/test/java/org/apache/commons/collections4/bag/PredicatedBagTest.java",
+    "pro_Commit": "eef8f1a0aa2bc6083dc5d0ed5458c830816c5bad",
+    "pro_Date": "2017-07-27 14:43:14",
+    "sha1": "79adbee134328e7c86d00f693a8688d9bbe2d514",
+    "file_Date": "2017-07-27 14:43:14",
+    "projectName": "commons-collections",
+    "commitID": "eef8f1a0aa2bc6083dc5d0ed5458c830816c5bad",
+    "label": false
+}

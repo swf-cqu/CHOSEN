@@ -1,0 +1,41 @@
+{
+    "classFile": "TDistributionTest",
+    "className": "TDistributionTest",
+    "packages": "org.apache.commons.math.distribution",
+    "methodInfos": [{
+        "md5": "pcN3qElSbLBkmz5dBrY88w==",
+        "methodName": "makeDistribution",
+        "parameters": "[]"
+    }, {
+        "md5": "PLpUAlDCIe1X3LfpqqkiYw==",
+        "methodName": "testCumulativeProbabilityAgainstStackOverflow",
+        "parameters": "[]"
+    }, {
+        "md5": "/Q1hDijKjTfF563wY+lW5A==",
+        "methodName": "testSmallDf",
+        "parameters": "[]"
+    }, {
+        "md5": "PSi2gswceUx+50J7/R1nuw==",
+        "methodName": "testPreconditions",
+        "parameters": "[]"
+    }, {
+        "md5": "3RBrVyUcS/PI8l9YqmeSVw==",
+        "methodName": "testMoments",
+        "parameters": "[]"
+    }, {
+        "md5": "a0seb7PfFbNjH9p2M4fenA==",
+        "methodName": "makeNistResults",
+        "parameters": "[double[] args, int df]"
+    }],
+    "addLines": [37, 76, 83, 113, 121, 125, 129, 154],
+    "delLines": [37, 76, 83, 113, 121, 125, 129, 154],
+    "type": "MODIFY",
+    "path": "src/test/java/org/apache/commons/math/distribution/TDistributionTest.java",
+    "pro_Commit": "d161d473bbd756de5092b3fab07134415f40eedc",
+    "pro_Date": "2011-11-26 21:23:27",
+    "sha1": "6b7bfb18b1bd6f5d98b85aa18d1d7cdf17e72ddb",
+    "file_Date": "2011-11-26 21:23:27",
+    "projectName": "commons-math",
+    "commitID": "d161d473bbd756de5092b3fab07134415f40eedc",
+    "label": true
+}

@@ -1,0 +1,136 @@
+{
+  'classFile': 'InputStreamOfTest',
+  'className': 'InputStreamOfTest',
+  'packages': 'org.cactoos.io',
+  'methodInfos': [
+    {
+      'md5': '6RLjPlVybmuP6n3T5bXEUQ==',
+      'methodName': 'readsSimpleFileContent',
+      'parameters': '[]'
+    },
+    {
+      'md5': '8hcmawnbXOScp9MB2h24ew==',
+      'methodName': 'readsFromReader',
+      'parameters': '[]'
+    },
+    {
+      'md5': '9NwX9LD0nh2EeOq2pmgDRg==',
+      'methodName': 'readsFromReaderThroughSmallBuffer',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'T5j95wAwbyHC8BASDac0LA==',
+      'methodName': 'makesDataAvailable',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'iItNEvM8g31eMQKT8xtUvQ==',
+      'methodName': 'readsFileContent',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'K1r2dPY7sL9gt/gSeAq4pg==',
+      'methodName': 'readsBytes',
+      'parameters': '[]'
+    },
+    {
+      'md5': '1xypwGcNB/+ylnmW6SInbg==',
+      'methodName': 'readsBytesArray',
+      'parameters': '[]'
+    },
+    {
+      'md5': '3pnVvKt1KlmlwLb0fb5bIQ==',
+      'methodName': 'readsText',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'TbtwGWBLski1wuQkn7o1EQ==',
+      'methodName': 'readsFromUri',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'UTklF/6baG8+rDT2ly0oOQ==',
+      'methodName': 'readsFromUrl',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'WY1flEycQKQDUYlsnbFVnQ==',
+      'methodName': 'readsFromReaderWithMax',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'THzC/tggGprEE15u3ZmwJA==',
+      'methodName': 'readsFromReaderWithCharsetWithMax',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'hf+YqzyjM38QtfOwVlwddw==',
+      'methodName': 'readsFromReaderWithCharset',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'Ie8vtXfK6UaFyWryT2uo6w==',
+      'methodName': 'readsFromTextWithCharset',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'pClSA12M5y3ix073YL+OGw==',
+      'methodName': 'readsFromCharSequenceWithCharsetName',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'slaqPZ6/4lwGORihAi2WhQ==',
+      'methodName': 'readsFromCharSequenceWithCharset',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    38,
+    62,
+    66,
+    72,
+    82,
+    92,
+    106,
+    116,
+    127,
+    137,
+    151,
+    165,
+    176,
+    192,
+    208,
+    227,
+    242,
+    257
+  ],
+  'delLines': [
+    34,
+    62,
+    66,
+    72,
+    82,
+    92,
+    106,
+    116,
+    127,
+    137,
+    151,
+    165,
+    176,
+    192,
+    208,
+    227,
+    242,
+    257
+  ],
+  'type': 'MODIFY',
+  'path': 'src/test/java/org/cactoos/io/InputStreamOfTest.java',
+  'pro_Commit': '7e57623842b710483cbefc3d59b984c86d712b67',
+  'pro_Date': '2019-03-23 19:01:55',
+  'sha1': '7daf1e9a4e5d213d817961ba8907674f7e1818a8',
+  'file_Date': '2020-03-13 17:41:48',
+  'projectName': 'cactoos',
+  'commitID': '494ddfebcfce6d72273f5fdf95dc1e81f4827734',
+  'label': false
+}

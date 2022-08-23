@@ -1,0 +1,88 @@
+{
+  "classFile": "SimpleTriangleMeshTest",
+  "className": "SimpleTriangleMeshTest",
+  "packages": "org.apache.commons.geometry.euclidean.threed.mesh",
+  "methodInfos": [
+    {
+      "md5": "X49NJ6GC5x9CjsTRY7ngZQ==",
+      "methodName": "testFaces_iterator",
+      "parameters": "[]"
+    },
+    {
+      "md5": "tIiUVB1og0C0n7xFRElTAw==",
+      "methodName": "testFace_doesNotDefineTriangle",
+      "parameters": "[]"
+    },
+    {
+      "md5": "cSpePhZvPqxsAq5IbrIXzA==",
+      "methodName": "testBuilder_invalidFaceIndices",
+      "parameters": "[]"
+    },
+    {
+      "md5": "0APe3233TFsOqryFAOK8fw==",
+      "methodName": "testBuilder_invalidFaceIndexCount",
+      "parameters": "[]"
+    },
+    {
+      "md5": "znhJh8buPEfyOcrBI28IVg==",
+      "methodName": "testBuilder_cannotModifyOnceBuilt",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    43,
+    278,
+    359,
+    364,
+    519,
+    523,
+    527,
+    531,
+    535,
+    539,
+    556,
+    560,
+    564,
+    568,
+    590,
+    594,
+    598,
+    602,
+    606,
+    610,
+    614,
+    618
+  ],
+  "delLines": [
+    277,
+    358,
+    363,
+    518,
+    522,
+    526,
+    530,
+    534,
+    538,
+    555,
+    559,
+    563,
+    567,
+    589,
+    593,
+    597,
+    601,
+    605,
+    609,
+    613,
+    617
+  ],
+  "type": "MODIFY",
+  "path": "commons-geometry-euclidean/src/test/java/org/apache/commons/geometry/euclidean/threed/mesh/SimpleTriangleMeshTest.java",
+  "pro_Commit": "4573154a284c0e64b1a76d527b3c546696cfc5d0",
+  "pro_Date": "2020-12-08 22:59:21",
+  "sha1": "89189b4a051b384e65e2da4945d1e4581ffa47a6",
+  "file_Date": "2020-12-17 13:48:47",
+  "projectName": "commons-geometry",
+  "commitID": "5403a8d96e01d5bf8846d36955db35e618a139f7",
+  "label": false
+}

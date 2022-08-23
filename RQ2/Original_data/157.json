@@ -1,0 +1,29 @@
+{
+  "classFile": "DoubleStreamExTest",
+  "className": "DoubleStreamExTest",
+  "packages": "javax.util.streamex",
+  "methodInfos": [
+    {
+      "md5": "Wd1WcttUMwQpXFPBMLQSDQ==",
+      "methodName": "testFoldLeft",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    336,
+    337
+  ],
+  "delLines": [
+    336,
+    337
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/javax/util/streamex/DoubleStreamExTest.java",
+  "pro_Commit": "4e41929a603f07fe14c984965e3d2f4780d23352",
+  "pro_Date": "2015-09-28 17:58:19",
+  "sha1": "22f11f43c83fcf65aecc575313f54716ac3896b5",
+  "file_Date": "2015-09-28 17:58:19",
+  "projectName": "streamex",
+  "commitID": "4e41929a603f07fe14c984965e3d2f4780d23352",
+  "label": true
+}

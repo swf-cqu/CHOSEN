@@ -1,0 +1,21 @@
+{
+    "classFile": "OperationTest",
+    "className": "OperationTest",
+    "packages": "eu.verdelhan.ta4j",
+    "methodInfos": [{
+        "md5": "mHu3eSVX8GQwukf3VQ04FQ==",
+        "methodName": "type",
+        "parameters": "[]"
+    }],
+    "addLines": [43, 44, 45, 46, 47, 48, 49, 50, 51, 52],
+    "delLines": [],
+    "type": "MODIFY",
+    "path": "ta4j/src/test/java/eu/verdelhan/ta4j/OperationTest.java",
+    "pro_Commit": "3be6a48ceaf93d6bd5277a9c66528630f3686712",
+    "pro_Date": "2014-11-18 17:53:52",
+    "sha1": "c5005d0b613d6693f46c5171e679872f53a9dc2a",
+    "file_Date": "2014-11-18 17:53:52",
+    "projectName": "ta4j",
+    "commitID": "3be6a48ceaf93d6bd5277a9c66528630f3686712",
+    "label": true
+}

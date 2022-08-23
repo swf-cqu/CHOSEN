@@ -1,0 +1,25 @@
+{
+    "classFile": "TotalProfitCriterionTest",
+    "className": "TotalProfitCriterionTest",
+    "packages": "org.ta4j.core.analysis.criteria",
+    "methodInfos": [{
+        "md5": "jGia80izDm5rtw6zqckWwQ==",
+        "methodName": "calculateProfitWithWinningShortTrades",
+        "parameters": "[]"
+    }, {
+        "md5": "DiswCo/VSCg3uAYjqXd4Pw==",
+        "methodName": "calculateProfitWithLosingShortTrades",
+        "parameters": "[]"
+    }],
+    "addLines": [74, 84],
+    "delLines": [74, 84],
+    "type": "MODIFY",
+    "path": "ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/TotalProfitCriterionTest.java",
+    "pro_Commit": "eb454971b415364fd05504f3e653246e1c8dce3d",
+    "pro_Date": "2020-03-22 18:50:52",
+    "sha1": "870e1f1721046a661fd2b7bde892b3a73eab2612",
+    "file_Date": "2020-03-22 18:50:52",
+    "projectName": "ta4j",
+    "commitID": "eb454971b415364fd05504f3e653246e1c8dce3d",
+    "label": true
+}

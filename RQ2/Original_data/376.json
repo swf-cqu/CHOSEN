@@ -1,0 +1,30 @@
+{
+  'classFile': 'AddressTest',
+  'className': 'AddressTest',
+  'packages': 'com.github.javafaker',
+  'methodInfos': [
+    {
+      'md5': 'nfOMqijxlDW6NiJORYvmhw==',
+      'methodName': 'testCountyByZipCode',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    109,
+    110,
+    111,
+    112,
+    113,
+    114
+  ],
+  'delLines': [],
+  'type': 'MODIFY',
+  'path': 'src/test/java/com/github/javafaker/AddressTest.java',
+  'pro_Commit': 'f73dd19086aa44e7dad0b95d4e0dd4bca7dfe1bd',
+  'pro_Date': '2018-11-09 03:58:02',
+  'sha1': '2163b6a18d990d1b97facc6a50af7cee8675181d',
+  'file_Date': '2018-11-09 03:58:02',
+  'projectName': 'java-faker',
+  'commitID': 'f73dd19086aa44e7dad0b95d4e0dd4bca7dfe1bd',
+  'label': true
+}

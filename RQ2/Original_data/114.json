@@ -1,0 +1,17 @@
+{
+    "classFile": "ByteConverterTestCase",
+    "className": "ByteConverterTestCase",
+    "packages": "org.apache.commons.beanutils2.converters",
+    "methodInfos": [],
+    "addLines": [18, 19, 20, 21, 22],
+    "delLines": [18, 22, 23],
+    "type": "RENAME",
+    "path": "src/test/java/org/apache/commons/beanutils2/converters/ByteConverterTestCase.java",
+    "pro_Commit": "24c4ff6140353a21eb1ed9bc2bdd229a6665bfe9",
+    "pro_Date": "2017-12-28 04:27:35",
+    "sha1": "20a5dbd8dc7154f0d2595c1a892483c4ae9c7671",
+    "file_Date": "2017-12-28 04:27:35",
+    "projectName": "commons-beanutils",
+    "commitID": "24c4ff6140353a21eb1ed9bc2bdd229a6665bfe9",
+    "label": true
+}

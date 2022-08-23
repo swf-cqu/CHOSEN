@@ -1,0 +1,88 @@
+{
+  "classFile": "AverageReturnPerBarCriterionTest",
+  "className": "AverageReturnPerBarCriterionTest",
+  "packages": "org.ta4j.core.analysis.criteria",
+  "methodInfos": [
+    {
+      "md5": "2R6UB3th3/Pgk4cvp1KQxQ==",
+      "methodName": "calculateOnlyWithGainPositions",
+      "parameters": "[]"
+    },
+    {
+      "md5": "p6fpKCrArInP5/Xp9ZBIsw==",
+      "methodName": "calculateWithASimplePosition",
+      "parameters": "[]"
+    },
+    {
+      "md5": "tXEp98redaCVL8mNDp/dnw==",
+      "methodName": "calculateOnlyWithLossPositions",
+      "parameters": "[]"
+    },
+    {
+      "md5": "z/HTca8igFynQM4Ugfc0fQ==",
+      "methodName": "calculateWithLosingAShortPositions",
+      "parameters": "[]"
+    },
+    {
+      "md5": "fqfI+WDfCrkRvR2l1xGxhA==",
+      "methodName": "calculateWithOnePosition",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    33,
+    34,
+    35,
+    36,
+    37,
+    49,
+    51,
+    52,
+    58,
+    60,
+    66,
+    68,
+    69,
+    76,
+    78,
+    91,
+    93,
+    95
+  ],
+  "delLines": [
+    27,
+    31,
+    32,
+    33,
+    34,
+    35,
+    44,
+    46,
+    47,
+    53,
+    55,
+    61,
+    63,
+    64,
+    71,
+    73,
+    86,
+    88,
+    90
+  ],
+  "type": "MODIFY",
+  "path": "ta4j-core/src/test/java/org/ta4j/core/analysis/criteria/AverageReturnPerBarCriterionTest.java",
+  "pro_Commit": "744de0d2ebd52b3f80b6d70511cf8cecc70499e1",
+  "pro_Date": "2021-01-26 23:59:07",
+  "sha1": "1e29bf811ee70af6fba26388e633dfc6d0dc4eef",
+  "file_Date": "2021-01-26 23:59:07",
+  "projectName": "ta4j",
+  "commitID": "744de0d2ebd52b3f80b6d70511cf8cecc70499e1",
+  "label": true
+}

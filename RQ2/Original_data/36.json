@@ -1,0 +1,21 @@
+{
+	"classFile": "StringsComparatorTest",
+	"className": "StringsComparatorTest",
+	"packages": "org.apache.commons.text.diff",
+	"methodInfos": [],
+	"addLines": [
+		59,
+		63,
+		67
+	],
+	"delLines": [],
+	"type": "MODIFY",
+	"path": "src/test/java/org/apache/commons/text/diff/StringsComparatorTest.java",
+	"pro_Commit": "f6214db8c8452471051ad3540f2cc4b69d5f7ba6",
+	"pro_Date": "2016-11-20 02:32:23",
+	"sha1": "2a4178de5d0a3e81b62891975798ae99d63fe2df",
+	"file_Date": "2016-11-20 02:33:11",
+	"projectName": "commons-text",
+	"commitID": "eb5e153fd119d7f5125f5142dd6627f5355eb15d",
+	"label":false
+}

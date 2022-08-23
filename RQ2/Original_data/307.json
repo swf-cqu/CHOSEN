@@ -1,0 +1,66 @@
+{
+  'classFile': 'BigFractionTest',
+  'className': 'BigFractionTest',
+  'packages': 'org.apache.commons.math.fraction',
+  'methodInfos': [
+    {
+      'md5': 'qTajuIl+Ql0k/uTwh1/MdQ==',
+      'methodName': 'testConstructor',
+      'parameters': '[]'
+    },
+    {
+      'md5': '8PMV5fU1RTuLI88uXwuuMw==',
+      'methodName': 'testAdd',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'OUwqylB6Q1UMzzdIY+2bzQ==',
+      'methodName': 'testDivide',
+      'parameters': '[]'
+    },
+    {
+      'md5': '9aQESxBMDtz2n9rLibjJCg==',
+      'methodName': 'testMultiply',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'sq+AJjNyIV7DAnS6+9TN0Q==',
+      'methodName': 'testSubtract',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    24,
+    68,
+    73,
+    330,
+    331,
+    418,
+    419,
+    464,
+    465,
+    482,
+    483
+  ],
+  'delLines': [
+    67,
+    72,
+    329,
+    330,
+    417,
+    418,
+    463,
+    464,
+    481,
+    482
+  ],
+  'type': 'MODIFY',
+  'path': 'src/test/java/org/apache/commons/math/fraction/BigFractionTest.java',
+  'pro_Commit': 'c15e80eba987c7f43462c8fdd38ac0b86f71a3f1',
+  'pro_Date': '2010-08-06 21:29:01',
+  'sha1': '656d985b2d05605a62964980178c471113c8ad34',
+  'file_Date': '2010-08-06 21:29:01',
+  'projectName': 'commons-math',
+  'commitID': 'c15e80eba987c7f43462c8fdd38ac0b86f71a3f1',
+  'label': true
+}

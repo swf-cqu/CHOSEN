@@ -1,0 +1,27 @@
+{
+  'classFile': 'HeapArrayOfDoublesQuickSelectSketchTest',
+  'className': 'HeapArrayOfDoublesQuickSelectSketchTest',
+  'packages': 'org.apache.datasketches.tuple',
+  'methodInfos': [],
+  'addLines': [
+    20,
+    25,
+    26,
+    27
+  ],
+  'delLines': [
+    20,
+    25,
+    26,
+    27
+  ],
+  'type': 'RENAME',
+  'path': 'src/test/java/org/apache/datasketches/tuple/HeapArrayOfDoublesQuickSelectSketchTest.java',
+  'pro_Commit': '5d990f78406130a67c31127d92d9ba2a6a9d3b4b',
+  'pro_Date': '2019-08-28 07:03:37',
+  'sha1': '7b6498c26e483709fa1199bafd6a327aecbb14ec',
+  'file_Date': '2019-08-28 07:03:37',
+  'projectName': 'datasketches-java',
+  'commitID': '5d990f78406130a67c31127d92d9ba2a6a9d3b4b',
+  'label': true
+}

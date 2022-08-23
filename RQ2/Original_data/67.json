@@ -1,0 +1,25 @@
+{
+    "classFile": "ZipFileTest",
+    "className": "ZipFileTest",
+    "packages": "org.apache.commons.compress.archivers.zip",
+    "methodInfos": [{
+        "md5": "Z8LJH+/1GeX59slTkwAGVQ==",
+        "methodName": "testCDOrder",
+        "parameters": "[]"
+    }, {
+        "md5": "gePY2gkTOVUxQmvU4dmxNw==",
+        "methodName": "testPhysicalOrder",
+        "parameters": "[]"
+    }],
+    "addLines": [],
+    "delLines": [38, 67],
+    "type": "MODIFY",
+    "path": "src/test/java/org/apache/commons/compress/archivers/zip/ZipFileTest.java",
+    "pro_Commit": "fb06e3ac868b995d3d387c8f160bd28cdb66b539",
+    "pro_Date": "2011-08-15 23:10:46",
+    "sha1": "5bafc2a29ea653050f2c957e47b979af52de41b6",
+    "file_Date": "2011-08-21 21:57:36",
+    "projectName": "commons-compress",
+    "commitID": "cdb582d924ec22610b04b159d4c611250591a08d",
+    "label": false
+}

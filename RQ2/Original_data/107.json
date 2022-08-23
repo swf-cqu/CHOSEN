@@ -1,0 +1,37 @@
+{
+    "classFile": "RTreeTest",
+    "className": "RTreeTest",
+    "packages": "com.github.davidmoten.rtree",
+    "methodInfos": [{
+        "md5": "H3/3loQbj0U3Nvmmv+5vfQ==",
+        "methodName": "testBuilder1",
+        "parameters": "[]"
+    }, {
+        "md5": "ZBniMV7yd4oKm9P+ncoijQ==",
+        "methodName": "testBuilder2",
+        "parameters": "[]"
+    }, {
+        "md5": "i8Khi7XLORKpoX5zIpapEA==",
+        "methodName": "testBuilder3",
+        "parameters": "[]"
+    }, {
+        "md5": "K5chSna2rknJO/Lr1eaZZw==",
+        "methodName": "testBuilder4",
+        "parameters": "[]"
+    }, {
+        "md5": "ucmHzZiC2kjsjuanY1zINg==",
+        "methodName": "testBuiltTree",
+        "parameters": "[RTree<Object> tree]"
+    }],
+    "addLines": [148, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176],
+    "delLines": [148],
+    "type": "MODIFY",
+    "path": "src/test/java/com/github/davidmoten/rtree/RTreeTest.java",
+    "pro_Commit": "c9362f3f017c566b2542fb1810459c6c73054093",
+    "pro_Date": "2014-09-01 05:26:14",
+    "sha1": "7490137e71029574baa6623848d8b0d554bf72c5",
+    "file_Date": "2014-09-01 14:12:43",
+    "projectName": "rtree",
+    "commitID": "8eff385016f06cfbb84dd2d84c8e938a2f022202",
+    "label": false
+}

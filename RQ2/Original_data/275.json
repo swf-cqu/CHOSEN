@@ -1,0 +1,53 @@
+{
+  "classFile": "TestDateTimeFormatterBuilder",
+  "className": "TestDateTimeFormatterBuilder",
+  "packages": "org.joda.time.format",
+  "methodInfos": [
+    {
+      "md5": "4UxwM/mI+LJt91anIAST8g==",
+      "methodName": "test_printParseShortNameWithAutoLookup",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    41,
+    42,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536
+  ],
+  "delLines": [],
+  "type": "MODIFY",
+  "path": "src/test/java/org/joda/time/format/TestDateTimeFormatterBuilder.java",
+  "pro_Commit": "14863a51230b3d44201646dbc1ce5d7f6bb97a33",
+  "pro_Date": "2012-08-14 00:01:52",
+  "sha1": "e064256f95755fdee45b394c5512c17d37252cca",
+  "file_Date": "2012-08-14 00:01:52",
+  "projectName": "joda-time",
+  "commitID": "14863a51230b3d44201646dbc1ce5d7f6bb97a33",
+  "label": true
+}

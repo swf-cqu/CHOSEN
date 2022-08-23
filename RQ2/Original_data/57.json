@@ -1,0 +1,45 @@
+{
+    "classFile": "NormalDistributionTest",
+    "className": "NormalDistributionTest",
+    "packages": "org.apache.commons.math.distribution",
+    "methodInfos": [{
+        "md5": "/kQC+uChznaE+i88YtVYUw==",
+        "methodName": "makeDistribution",
+        "parameters": "[]"
+    }, {
+        "md5": "0O7bFoFOy4FpPbguD/HTYg==",
+        "methodName": "testQuantiles",
+        "parameters": "[]"
+    }, {
+        "md5": "vTK/piRbReFrqd0h8+GRkg==",
+        "methodName": "testPreconditions",
+        "parameters": "[]"
+    }, {
+        "md5": "aQZz/Lwdrrq5m/L9z6xjMg==",
+        "methodName": "checkDensity",
+        "parameters": "[double mean, double sd, double[] x, double[] expected]"
+    }, {
+        "md5": "lVdvSEn/2To5ZZXH3iYQ9Q==",
+        "methodName": "testExtremeValues",
+        "parameters": "[]"
+    }, {
+        "md5": "lu3nIKmwJL/fIwLGkWsnvA==",
+        "methodName": "testMath280",
+        "parameters": "[]"
+    }, {
+        "md5": "uJA24YSnocp17d0U2CrDwg==",
+        "methodName": "testMoments",
+        "parameters": "[]"
+    }],
+    "addLines": [38, 64, 93, 99, 128, 141, 153, 178, 194, 198, 202],
+    "delLines": [38, 64, 93, 99, 128, 141, 153, 178, 194, 198, 202],
+    "type": "MODIFY",
+    "path": "src/test/java/org/apache/commons/math/distribution/NormalDistributionTest.java",
+    "pro_Commit": "3f9a933d4c1316211df42b9c197d432ca8456451",
+    "pro_Date": "2011-11-26 18:17:49",
+    "sha1": "f0416d4646072c94332440b26173eefce78704dc",
+    "file_Date": "2011-11-26 18:17:49",
+    "projectName": "commons-math",
+    "commitID": "3f9a933d4c1316211df42b9c197d432ca8456451",
+    "label": true
+}

@@ -1,0 +1,25 @@
+{
+    "classFile": "JavaFieldNamingPolicyTest",
+    "className": "JavaFieldNamingPolicyTest",
+    "packages": "com.google.gson",
+    "methodInfos": [{
+        "md5": "N39XR4ApRrv138rkqMAx1w==",
+        "methodName": "testFieldNamingPolicy",
+        "parameters": "[]"
+    }, {
+        "md5": "pf5FZyA2kVf28KsZ85YEuw==",
+        "methodName": "testNullField",
+        "parameters": "[]"
+    }],
+    "addLines": [37, 43],
+    "delLines": [21, 22, 39, 45],
+    "type": "MODIFY",
+    "path": "gson/src/test/java/com/google/gson/JavaFieldNamingPolicyTest.java",
+    "pro_Commit": "e3af076ff271968a1a639c5bbdc1ba967b11ea94",
+    "pro_Date": "2010-01-10 06:43:27",
+    "sha1": "1836bdf2ef5881f862869f961af3ff4dd9f9ee06",
+    "file_Date": "2010-01-10 06:43:27",
+    "projectName": "gson",
+    "commitID": "e3af076ff271968a1a639c5bbdc1ba967b11ea94",
+    "label": true
+}

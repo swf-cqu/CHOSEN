@@ -1,0 +1,72 @@
+{
+  'classFile': 'ZipLongTest',
+  'className': 'ZipLongTest',
+  'packages': 'org.apache.commons.compress.archivers.zip',
+  'methodInfos': [
+    {
+      'md5': 'wuPH49t3f4+dISFB+A5VQA==',
+      'methodName': 'testToBytes',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'YEO5F6y6DhiZ4VxH5zh/6A==',
+      'methodName': 'testPut',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'xFENoszuhoJgu5oNg9PTXA==',
+      'methodName': 'testFromBytes',
+      'parameters': '[]'
+    },
+    {
+      'md5': '9UhCIceTzRcmTp64Cdp++w==',
+      'methodName': 'testEquals',
+      'parameters': '[]'
+    },
+    {
+      'md5': '+YW70W1uudXoi47nvQS7DA==',
+      'methodName': 'testSign',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'OJOl9bR3awn5OQ4V4+OA6A==',
+      'methodName': 'testClone',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    36,
+    37,
+    50,
+    63,
+    64,
+    73,
+    74,
+    75,
+    93,
+    99,
+    100
+  ],
+  'delLines': [
+    36,
+    37,
+    50,
+    63,
+    64,
+    73,
+    74,
+    75,
+    93,
+    99,
+    100
+  ],
+  'type': 'MODIFY',
+  'path': 'src/test/java/org/apache/commons/compress/archivers/zip/ZipLongTest.java',
+  'pro_Commit': '3f2c760a4eb82d880e62a03cb9450d9dcf2793f7',
+  'pro_Date': '2016-04-10 01:10:28',
+  'sha1': 'f72d886f4139e6e189a9d8724779cf06cbf3cc09',
+  'file_Date': '2016-04-10 01:10:28',
+  'projectName': 'commons-compress',
+  'commitID': '3f2c760a4eb82d880e62a03cb9450d9dcf2793f7',
+  'label': false
+}

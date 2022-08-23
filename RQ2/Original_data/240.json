@@ -1,0 +1,127 @@
+{
+  "classFile": "FastDateParserTest",
+  "className": "FastDateParserTest",
+  "packages": "org.apache.commons.lang3.time",
+  "methodInfos": [
+    {
+      "md5": "4fg6hu1fYNnwoT73QXHTAA==",
+      "methodName": "testParseZone",
+      "parameters": "[]"
+    },
+    {
+      "md5": "MUf1eJKEnJ97o5RfugpjBA==",
+      "methodName": "testParseLongShort",
+      "parameters": "[]"
+    },
+    {
+      "md5": "rzxpEMbRTvaxK5XgxVWocA==",
+      "methodName": "testAmPm",
+      "parameters": "[]"
+    },
+    {
+      "md5": "EUVfpmXnyK5F6rxVuZFK3g==",
+      "methodName": "testLocales",
+      "parameters": "[final String format, final boolean eraBC]"
+    },
+    {
+      "md5": "y1TvyKOAAWm4KbwMDnWAFw==",
+      "methodName": "testParseNumerics",
+      "parameters": "[]"
+    },
+    {
+      "md5": "z9F87Yza8S8poywzdSCj8A==",
+      "methodName": "testQuotes",
+      "parameters": "[]"
+    },
+    {
+      "md5": "0YwIGqFYHoEs316mnerw5Q==",
+      "methodName": "testDayOf",
+      "parameters": "[]"
+    },
+    {
+      "md5": "q3M6Rz4zErs4QSN7qcX0iw==",
+      "methodName": "testShortDateStyleWithLocales",
+      "parameters": "[]"
+    },
+    {
+      "md5": "dnBgDVFZ/ymhFd5/BXffQA==",
+      "methodName": "testLowYearPadding",
+      "parameters": "[]"
+    },
+    {
+      "md5": "nrNU597V3vd3I/Am+as9Cw==",
+      "methodName": "testMilleniumBug",
+      "parameters": "[]"
+    },
+    {
+      "md5": "SWrZbftLF5t/ZH7Ee8I4dg==",
+      "methodName": "testLang303",
+      "parameters": "[]"
+    },
+    {
+      "md5": "ShyepvvUWzrBN3p4ZZQ0oQ==",
+      "methodName": "testLang538",
+      "parameters": "[]"
+    },
+    {
+      "md5": "nym3OUFJb3gaT+yds31vHg==",
+      "methodName": "testLang996",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    120,
+    130,
+    135,
+    144,
+    173,
+    179,
+    185,
+    191,
+    325,
+    373,
+    384,
+    462,
+    478,
+    495,
+    497,
+    499,
+    501,
+    511,
+    519,
+    533,
+    577
+  ],
+  "delLines": [
+    120,
+    130,
+    135,
+    144,
+    173,
+    179,
+    185,
+    191,
+    325,
+    373,
+    384,
+    462,
+    478,
+    495,
+    497,
+    499,
+    501,
+    511,
+    519,
+    533,
+    577
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/apache/commons/lang3/time/FastDateParserTest.java",
+  "pro_Commit": "86c76dd5ea04d1881a52d79113d6dbb1d57c38a6",
+  "pro_Date": "2015-04-08 10:19:02",
+  "sha1": "3651eae0b37b32c5bbe8873584ed978b992454e5",
+  "file_Date": "2015-04-30 04:14:16",
+  "projectName": "commons-lang",
+  "commitID": "ea60fbe0633082a131bbb18de94fa60a04eddcc4",
+  "label": false
+}

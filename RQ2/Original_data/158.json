@@ -1,0 +1,28 @@
+{
+  "classFile": "FormattedTextTest",
+  "className": "FormattedTextTest",
+  "packages": "org.cactoos.text",
+  "methodInfos": [
+    {
+      "md5": "SDwp1xOruPiE026Ek36vfQ==",
+      "methodName": "formatsWithLocale",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    60,
+    62
+  ],
+  "delLines": [
+    61
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/cactoos/text/FormattedTextTest.java",
+  "pro_Commit": "9a5c7ff8349f34e74cc03c11873b24d521a17e3b",
+  "pro_Date": "2017-05-27 23:27:17",
+  "sha1": "b02fe76ed9afcd4ded6fe6c32ab4b4925dbdc571",
+  "file_Date": "2017-05-27 23:27:17",
+  "projectName": "cactoos",
+  "commitID": "9a5c7ff8349f34e74cc03c11873b24d521a17e3b",
+  "label": true
+}

@@ -1,0 +1,25 @@
+{
+    "classFile": "ATRIndicatorTest",
+    "className": "ATRIndicatorTest",
+    "packages": "org.ta4j.core.indicators",
+    "methodInfos": [{
+        "md5": "lULX7YKGQWjE1YONMsCeLw==",
+        "methodName": "testDummy",
+        "parameters": "[]"
+    }, {
+        "md5": "9Yohxig81+If/TYYD+DUkA==",
+        "methodName": "testXls",
+        "parameters": "[]"
+    }],
+    "addLines": [56, 58, 60, 62, 64, 74, 78, 82],
+    "delLines": [56, 58, 60, 62, 64, 74, 78, 82],
+    "type": "MODIFY",
+    "path": "ta4j-core/src/test/java/org/ta4j/core/indicators/ATRIndicatorTest.java",
+    "pro_Commit": "edf062eff8a8310133102d68ce11fdd7a67dba84",
+    "pro_Date": "2018-01-26 01:18:12",
+    "sha1": "d45040e821ae951626671e3088f057cfc5779ea0",
+    "file_Date": "2018-02-08 06:08:26",
+    "projectName": "ta4j",
+    "commitID": "45ae4332e03dc9e684823b34217037b16a81469b",
+    "label": false
+}

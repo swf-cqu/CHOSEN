@@ -1,0 +1,21 @@
+{
+    "classFile": "ElementTest",
+    "className": "ElementTest",
+    "packages": "org.jsoup.nodes",
+    "methodInfos": [{
+        "md5": "mHytW6c1XQIsEjoUgELQ+w==",
+        "methodName": "testChainedRemoveAttributes",
+        "parameters": "[]"
+    }],
+    "addLines": [960, 961, 962, 963, 964, 965, 966, 967, 968, 969, 970, 971, 972, 973, 974],
+    "delLines": [],
+    "type": "MODIFY",
+    "path": "src/test/java/org/jsoup/nodes/ElementTest.java",
+    "pro_Commit": "4f5a56459a98e21780d813919da66de9eee91b74",
+    "pro_Date": "2016-08-25 08:04:45",
+    "sha1": "6eef9a96c6ddcbb9be0a2ba94e28ebcefb0e9301",
+    "file_Date": "2016-10-27 03:58:24",
+    "projectName": "jsoup",
+    "commitID": "2c58e975ab00eb369ee3dfbba07a4a78a1ef9e19",
+    "label": false
+}

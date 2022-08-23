@@ -1,0 +1,25 @@
+{
+    "classFile": "CSVParserTest",
+    "className": "CSVParserTest",
+    "packages": "org.apache.commons.csv",
+    "methodInfos": [{
+        "md5": "FGGdmuCpUjjGbxdlWdjLdA==",
+        "methodName": "testBackslashEscaping",
+        "parameters": "[]"
+    }, {
+        "md5": "1JMtAGPhWSmkT/lRoItTXA==",
+        "methodName": "testBackslashEscaping2",
+        "parameters": "[]"
+    }],
+    "addLines": [286, 315],
+    "delLines": [286, 315, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383],
+    "type": "MODIFY",
+    "path": "src/test/java/org/apache/commons/csv/CSVParserTest.java",
+    "pro_Commit": "c9dedff12e98a34ab4225bc65f810c0954207f11",
+    "pro_Date": "2012-03-17 20:29:15",
+    "sha1": "f9eee6f9bfa59a8a67555cd58f4f279e26fb1c1d",
+    "file_Date": "2012-03-17 20:29:15",
+    "projectName": "commons-csv",
+    "commitID": "c9dedff12e98a34ab4225bc65f810c0954207f11",
+    "label": true
+}

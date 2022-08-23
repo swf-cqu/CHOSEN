@@ -1,0 +1,29 @@
+{
+  'classFile': 'TextAsIntTest',
+  'className': 'TextAsIntTest',
+  'packages': 'org.cactoos.text',
+  'methodInfos': [
+    {
+      'md5': 'xzebe5Fjn4Kco0kS6PRUjA==',
+      'methodName': 'failsIfTextDoesNotRepresentAnInt',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  'delLines': [],
+  'type': 'MODIFY',
+  'path': 'src/test/java/org/cactoos/text/TextAsIntTest.java',
+  'pro_Commit': 'a21ee42feb99f6bfae1e792c089762ab010ef605',
+  'pro_Date': '2017-06-03 00:59:03',
+  'sha1': 'c765e00011791d82e8b765cfd61735d2876894b5',
+  'file_Date': '2017-06-11 03:00:59',
+  'projectName': 'cactoos',
+  'commitID': 'aeb61efe2f82b63bcffc37beda105c04e5636db1',
+  'label': false
+}

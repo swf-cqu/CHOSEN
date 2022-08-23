@@ -1,0 +1,69 @@
+{
+  "classFile": "TestDatabaseBuilderParametersImpl",
+  "className": "TestDatabaseBuilderParametersImpl",
+  "packages": "org.apache.commons.configuration2.builder",
+  "methodInfos": [
+    {
+      "md5": "hS+9yYYqhdXHMV57ZmzECQ==",
+      "methodName": "testSetDataSource",
+      "parameters": "[]"
+    },
+    {
+      "md5": "pL2xwqMh3uytsNMatYw19Q==",
+      "methodName": "testSetTable",
+      "parameters": "[]"
+    },
+    {
+      "md5": "BHU8f94+LG1OabJ8gr681A==",
+      "methodName": "testSetKeyColumn",
+      "parameters": "[]"
+    },
+    {
+      "md5": "6QKZLr4W6Q3IB3jpZMaJ8A==",
+      "methodName": "testSetValueColumn",
+      "parameters": "[]"
+    },
+    {
+      "md5": "hIflIh6WMdlHqbWq2uTUIw==",
+      "methodName": "testSetConfigurationNameColumn",
+      "parameters": "[]"
+    },
+    {
+      "md5": "QJskz+1QU8ySH97UDcaUAA==",
+      "methodName": "testSetConfigurationName",
+      "parameters": "[]"
+    },
+    {
+      "md5": "NmusCGGg/fi6iNCSnHvwzA==",
+      "methodName": "testBeanProperties",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    53,
+    66,
+    78,
+    90,
+    102,
+    115,
+    141
+  ],
+  "delLines": [
+    53,
+    66,
+    78,
+    90,
+    102,
+    115,
+    141
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/apache/commons/configuration2/builder/TestDatabaseBuilderParametersImpl.java",
+  "pro_Commit": "fa5dbfaf68973a204dc09acb42909ff5bd39ff70",
+  "pro_Date": "2018-09-28 06:24:23",
+  "sha1": "2cb3056dafb0fec473e00ef2622da0edbbc00ed2",
+  "file_Date": "2018-09-28 06:24:23",
+  "projectName": "commons-configuration",
+  "commitID": "fa5dbfaf68973a204dc09acb42909ff5bd39ff70",
+  "label": false
+}

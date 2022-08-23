@@ -1,0 +1,27 @@
+{
+  "classFile": "LocalizedFormatsTest",
+  "className": "LocalizedFormatsTest",
+  "packages": "org.apache.commons.math3.exception.util",
+  "methodInfos": [
+    {
+      "md5": "uYTkEKzB2iwFtvk/ZtAV/w==",
+      "methodName": "testMessageNumber",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    33
+  ],
+  "delLines": [
+    33
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/apache/commons/math3/exception/util/LocalizedFormatsTest.java",
+  "pro_Commit": "52e85a5f6f594cc430e9eccc771fedf4e10eb906",
+  "pro_Date": "2013-10-20 04:37:13",
+  "sha1": "ac052eb080fa4d82aa3ef5aba7edf6461fb08408",
+  "file_Date": "2013-10-20 04:38:42",
+  "projectName": "commons-math",
+  "commitID": "c4f77587f5aa48c717cd14d81ae2c24f0e7b300e",
+  "label": false
+}

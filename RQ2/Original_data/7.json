@@ -1,0 +1,17 @@
+{
+    "classFile": "FrequentLongsSketchTest",
+    "className": "FrequentLongsSketchTest",
+    "packages": "com.yahoo.sketches.frequencies",
+    "methodInfos": [],
+    "addLines": [3, 295, 297, 300, 303, 821, 822, 823, 824, 825, 826, 827],
+    "delLines": [296, 299, 302, 304, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877],
+    "type": "MODIFY",
+    "path": "src/test/java/com/yahoo/sketches/frequencies/FrequentLongsSketchTest.java",
+    "pro_Commit": "76e09fbf7937be6fb334ee3efff712cf75a78597",
+    "pro_Date": "2016-04-28 03:44:46",
+    "sha1": "f9914d0ed8fb5f147981d6b30afeb4b738da2b30",
+    "file_Date": "2016-04-28 07:55:34",
+    "projectName": "datasketches-java",
+    "commitID": "a3d92e927191e00f046ff37ba7ff55b4a462ac2e",
+    "label": false
+}

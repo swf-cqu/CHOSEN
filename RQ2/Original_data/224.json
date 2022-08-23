@@ -1,0 +1,44 @@
+{
+  "classFile": "FastDatePrinterTest",
+  "className": "FastDatePrinterTest",
+  "packages": "org.apache.commons.lang3.time",
+  "methodInfos": [
+    {
+      "md5": "wb0zV7dr9ObXIsH+JkkQGg==",
+      "methodName": "testFormat",
+      "parameters": "[]"
+    },
+    {
+      "md5": "JG47Fj/Mi1irc63wdbUE0w==",
+      "methodName": "testTimeZoneAsZ",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    33,
+    34,
+    82,
+    84,
+    267
+  ],
+  "delLines": [
+    80,
+    82,
+    83,
+    84,
+    87,
+    88,
+    89,
+    272,
+    273
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/apache/commons/lang3/time/FastDatePrinterTest.java",
+  "pro_Commit": "0add1e8975336c65513b26123d48b221e2515ddc",
+  "pro_Date": "2015-05-03 02:21:02",
+  "sha1": "e0e44dcf0b9352d02ffb1d157c7c5832d14e60b3",
+  "file_Date": "2015-05-05 14:02:22",
+  "projectName": "commons-lang",
+  "commitID": "eb5f7ed8914fd53eea1ad360fd88f42ad8a7a33b",
+  "label": false
+}

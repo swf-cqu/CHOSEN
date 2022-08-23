@@ -1,0 +1,49 @@
+{
+  "classFile": "TradeTest",
+  "className": "TradeTest",
+  "packages": "org.ta4j.core",
+  "methodInfos": [
+    {
+      "md5": "HWkGO/KCbVbubK/wzixdZA==",
+      "methodName": "testGetGrossReturnForShortTrades",
+      "parameters": "[]"
+    },
+    {
+      "md5": "IIGJHf4qU8tOCxLT+Uz9LQ==",
+      "methodName": "testGetGrossReturnForLongTradesUsingBarCloseOnNaN",
+      "parameters": "[]"
+    },
+    {
+      "md5": "PXTiIWXtK1eZlpq0gEv3RA==",
+      "methodName": "testGetGrossReturnForShortTradesUsingBarCloseOnNaN",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    237,
+    246,
+    247,
+    248,
+    253,
+    254,
+    255
+  ],
+  "delLines": [
+    236,
+    246,
+    247,
+    248,
+    253,
+    254,
+    255
+  ],
+  "type": "MODIFY",
+  "path": "ta4j-core/src/test/java/org/ta4j/core/TradeTest.java",
+  "pro_Commit": "eb454971b415364fd05504f3e653246e1c8dce3d",
+  "pro_Date": "2020-03-22 18:50:52",
+  "sha1": "d9db21ef3a455c38bb0c23111d03db6689a98641",
+  "file_Date": "2020-03-22 18:50:52",
+  "projectName": "ta4j",
+  "commitID": "eb454971b415364fd05504f3e653246e1c8dce3d",
+  "label": true
+}

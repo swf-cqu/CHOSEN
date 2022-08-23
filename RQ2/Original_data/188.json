@@ -1,0 +1,26 @@
+{
+  "classFile": "StickyInputTest",
+  "className": "StickyInputTest",
+  "packages": "org.cactoos.io",
+  "methodInfos": [
+    {
+      "md5": "sEYfeheOE7CToFjOopsg/w==",
+      "methodName": "readsRealUrl",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [],
+  "delLines": [
+    74,
+    83
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/cactoos/io/StickyInputTest.java",
+  "pro_Commit": "504cb57f1206cb4268f6613a9a2d9c36a9797b14",
+  "pro_Date": "2017-06-24 07:01:00",
+  "sha1": "0c68108812822780f76a8838b0bf7d1594037336",
+  "file_Date": "2017-07-25 16:41:45",
+  "projectName": "cactoos",
+  "commitID": "1e51b3f1f214a483ed78e12d85c2aa26ee48c92e",
+  "label": false
+}

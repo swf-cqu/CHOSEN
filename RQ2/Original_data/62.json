@@ -1,0 +1,25 @@
+{
+    "classFile": "QDoxTemplateSuiteFactoryTest",
+    "className": "QDoxTemplateSuiteFactoryTest",
+    "packages": "org.apache.tiles.autotag.core",
+    "methodInfos": [{
+        "md5": "a9fkLUgnPbAX90jBfCNA+w==",
+        "methodName": "setUp",
+        "parameters": "[]"
+    }, {
+        "md5": "mALHqRJ4HtZoX7KjJ+txpg==",
+        "methodName": "testCreateTemplateSuite",
+        "parameters": "[]"
+    }],
+    "addLines": [11, 39, 40, 55, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101],
+    "delLines": [52, 108],
+    "type": "MODIFY",
+    "path": "tiles-autotag-core/src/test/java/org/apache/tiles/autotag/core/QDoxTemplateSuiteFactoryTest.java",
+    "pro_Commit": "4bbd7ef69837704f56833db77f82a14abcdb2d22",
+    "pro_Date": "2010-03-13 21:30:47",
+    "sha1": "1ab12e6674b631d3dde9ee6874e12f9ccbfbf175",
+    "file_Date": "2010-11-20 21:49:55",
+    "projectName": "tiles-autotag",
+    "commitID": "7105985b215fee9dab80fe5e7e59ffec5d655ed2",
+    "label": false
+}

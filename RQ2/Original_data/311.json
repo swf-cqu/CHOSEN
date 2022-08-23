@@ -1,0 +1,37 @@
+{
+  'classFile': 'DormandPrince853IntegratorTest',
+  'className': 'DormandPrince853IntegratorTest',
+  'packages': 'org.apache.commons.math.ode.nonstiff',
+  'methodInfos': [
+    {
+      'md5': 'gaO6/A3zdY5nevdu/9G0FQ==',
+      'methodName': 'testMissedEndEvent',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    76,
+    77,
+    78,
+    296,
+    331,
+    332,
+    333,
+    335
+  ],
+  'delLines': [
+    292,
+    294,
+    329,
+    331
+  ],
+  'type': 'MODIFY',
+  'path': 'src/test/java/org/apache/commons/math/ode/nonstiff/DormandPrince853IntegratorTest.java',
+  'pro_Commit': '0ec92a0fc205fb0704d3b9032b88ebb0d4e561a9',
+  'pro_Date': '2010-08-30 06:04:09',
+  'sha1': '7d5e9b736955dfafc2eadcf6dc853672e7b8fbcb',
+  'file_Date': '2011-11-28 18:20:51',
+  'projectName': 'commons-math',
+  'commitID': '6041336783ba94b46fe5953e8415884bf0cef32c',
+  'label': false
+}

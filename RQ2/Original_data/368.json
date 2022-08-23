@@ -1,0 +1,23 @@
+{
+  'classFile': 'ItemsSketchTest',
+  'className': 'ItemsSketchTest',
+  'packages': 'com.yahoo.sketches.quantiles',
+  'methodInfos': [],
+  'addLines': [
+    19,
+    20
+  ],
+  'delLines': [
+    19,
+    20
+  ],
+  'type': 'RENAME',
+  'path': 'sketches/src/test/java/com/yahoo/sketches/quantiles/ItemsSketchTest.java',
+  'pro_Commit': '92e67a9ab1d96df18b9676fdf7af675033b646d8',
+  'pro_Date': '2016-09-03 05:27:36',
+  'sha1': '80f07c0490ba678a6be292cfbf5171c84b3e28ca',
+  'file_Date': '2016-09-03 05:27:36',
+  'projectName': 'datasketches-java',
+  'commitID': '92e67a9ab1d96df18b9676fdf7af675033b646d8',
+  'label': true
+}

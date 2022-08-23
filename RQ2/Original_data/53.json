@@ -1,0 +1,49 @@
+{
+    "classFile": "CommandLineTest",
+    "className": "CommandLineTest",
+    "packages": "org.apache.commons.cli",
+    "methodInfos": [{
+        "md5": "YRaOwdtP9iVTp8+S71z3pQ==",
+        "methodName": "testGetOptionProperties",
+        "parameters": "[]"
+    }, {
+        "md5": "uhl8uh27Nn+JZbdgtk7Acw==",
+        "methodName": "testGetOptionPropertiesWithOption",
+        "parameters": "[]"
+    }, {
+        "md5": "oryHB8lMtwLpCo4PHpyJRw==",
+        "methodName": "testGetOptions",
+        "parameters": "[]"
+    }, {
+        "md5": "LvgTokoMKIZ9cn7wVg6S+w==",
+        "methodName": "testGetParsedOptionValue",
+        "parameters": "[]"
+    }, {
+        "md5": "GOwU9uthwD5f1lccvVkOcg==",
+        "methodName": "testGetParsedOptionValueWithChar",
+        "parameters": "[]"
+    }, {
+        "md5": "A6PWRaWH1Oy1lFvtJcHdLQ==",
+        "methodName": "testGetParsedOptionValueWithOption",
+        "parameters": "[]"
+    }, {
+        "md5": "qWLF4HDzeXJrvnsXxWDXHw==",
+        "methodName": "testNullhOption",
+        "parameters": "[]"
+    }, {
+        "md5": "pXouZsl9HVM6QmJi6ltgaQ==",
+        "methodName": "testBuilder",
+        "parameters": "[]"
+    }],
+    "addLines": [34, 36, 40, 41, 43, 57, 59, 60, 61, 65, 66, 68, 82, 95, 99, 100, 108, 112, 113, 121, 122, 123, 127, 128, 136, 137, 138, 141, 142, 151, 154],
+    "delLines": [34, 36, 40, 41, 43, 57, 59, 60, 61, 65, 66, 68, 82, 95, 99, 100, 108, 112, 113, 121, 122, 123, 127, 128, 136, 137, 138, 141, 142, 151, 154],
+    "type": "MODIFY",
+    "path": "src/test/java/org/apache/commons/cli/CommandLineTest.java",
+    "pro_Commit": "357a8b0b8f1090db29e0d541a9419f570a78457b",
+    "pro_Date": "2017-06-06 00:37:32",
+    "sha1": "cf22712fb8f7ca1e21a358b87983dd543d679891",
+    "file_Date": "2017-06-06 00:37:32",
+    "projectName": "commons-cli",
+    "commitID": "357a8b0b8f1090db29e0d541a9419f570a78457b",
+    "label": false
+}

@@ -1,0 +1,69 @@
+{
+  'classFile': 'FailoverUriPoolTest',
+  'className': 'FailoverUriPoolTest',
+  'packages': 'org.apache.qpid.jms.provider.failover',
+  'methodInfos': [
+    {
+      'md5': 'g/T4T4UW5X1k5vHao7RPiw==',
+      'methodName': 'testDuplicatesNotAddedUnresolvable',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'sFUcvtAqsb28UiYO5jt2xg==',
+      'methodName': 'testDuplicatesNotAddedWhenQueryPresentAndUnresolveable',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'sdlvHHgeJQhxRD1OASanyQ==',
+      'methodName': 'testRemoveWhenUnresolvable',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'pnAw8lpNxOf1Bh9NIT/DNA==',
+      'methodName': 'testRemoveWhenQueryPresentAndUnresolveable',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'qFJintbKC+gxpTGj31rkKQ==',
+      'methodName': 'checkIfResolutionWorks',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    26,
+    28,
+    162,
+    163,
+    164,
+    186,
+    187,
+    327,
+    328,
+    344,
+    345,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471
+  ],
+  'delLines': [
+    160
+  ],
+  'type': 'MODIFY',
+  'path': 'qpid-jms-client/src/test/java/org/apache/qpid/jms/provider/failover/FailoverUriPoolTest.java',
+  'pro_Commit': '07d1637d959002cef9c7eb5466f0185618db29bc',
+  'pro_Date': '2015-05-30 03:13:44',
+  'sha1': '30947070e84e9e0fe7bc51fdc70576d3d60d52e2',
+  'file_Date': '2015-08-21 00:28:54',
+  'projectName': 'qpid-jms',
+  'commitID': '8b8f361bdec516329434376142c0b8ff307ce692',
+  'label': false
+}

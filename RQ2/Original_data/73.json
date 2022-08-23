@@ -1,0 +1,25 @@
+{
+    "classFile": "TiedMapEntryTest",
+    "className": "TiedMapEntryTest",
+    "packages": "org.apache.commons.collections4.keyvalue",
+    "methodInfos": [{
+        "md5": "CjBszZamdzC8tBhU+s6nig==",
+        "methodName": "testConstructors",
+        "parameters": "[]"
+    }, {
+        "md5": "L5VV3qZusuHoei7DdFRZGA==",
+        "methodName": "testSetValue",
+        "parameters": "[]"
+    }],
+    "addLines": [19, 20, 23, 48, 57],
+    "delLines": [],
+    "type": "MODIFY",
+    "path": "src/test/java/org/apache/commons/collections4/keyvalue/TiedMapEntryTest.java",
+    "pro_Commit": "5250fdfdf3720a96366cac57fd216e8fa6c13cce",
+    "pro_Date": "2016-03-12 05:12:21",
+    "sha1": "b496e6a1dbd466adbb7311caa029cc45c4f18a1c",
+    "file_Date": "2018-06-21 04:49:29",
+    "projectName": "commons-collections",
+    "commitID": "51186c1def4ac732f7d8ac6efa553e676fb7b8cd",
+    "label": false
+}

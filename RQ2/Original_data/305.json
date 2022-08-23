@@ -1,0 +1,58 @@
+{
+  'classFile': 'GroupedTest',
+  'className': 'GroupedTest',
+  'packages': 'org.cactoos.map',
+  'methodInfos': [
+    {
+      'md5': 'hWTHPUOG6i6UHf4Hv2iAlQ==',
+      'methodName': 'groupedByNumber',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'yclQHwPVGDzTfR59VqM0DQ==',
+      'methodName': 'emptyIterable',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'FwWlzZFwVomcbDmsAw4Ptg==',
+      'methodName': 'groupedByOneHasEntries',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'ven8pmZIr2TX1lKiAzDP9A==',
+      'methodName': 'groupedBySuperType',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    32,
+    45,
+    54,
+    59,
+    67,
+    72,
+    84,
+    89,
+    101
+  ],
+  'delLines': [
+    29,
+    45,
+    54,
+    59,
+    67,
+    72,
+    84,
+    89,
+    101
+  ],
+  'type': 'MODIFY',
+  'path': 'src/test/java/org/cactoos/map/GroupedTest.java',
+  'pro_Commit': '7925bc6127bdb3e679d25ca1cb4e779827dbdcde',
+  'pro_Date': '2020-09-19 18:20:43',
+  'sha1': '7ec99bea6dd51d787f67d5c4819873d95508a7c0',
+  'file_Date': '2020-10-21 00:35:23',
+  'projectName': 'cactoos',
+  'commitID': 'cd6b6ede796bc00f45b79a875b2ed587390a4bdc',
+  'label': false
+}

@@ -1,0 +1,27 @@
+{
+  'classFile': 'SimilarityScoreFromTest',
+  'className': 'SimilarityScoreFromTest',
+  'packages': 'org.apache.commons.text.similarity',
+  'methodInfos': [
+    {
+      'md5': 'gCSTeFMUMAlNummppvAQoA==',
+      'methodName': 'testFailsToCreateSimilarityScoreFromThrowsIllegalArgumentException',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    28
+  ],
+  'delLines': [
+    28
+  ],
+  'type': 'MODIFY',
+  'path': 'src/test/java/org/apache/commons/text/similarity/SimilarityScoreFromTest.java',
+  'pro_Commit': '7324502096a1e7f02c510285aba087557dec0059',
+  'pro_Date': '2017-05-05 20:43:01',
+  'sha1': '75f81b734564a98b1794e489f811807c53894249',
+  'file_Date': '2017-09-24 06:21:53',
+  'projectName': 'commons-text',
+  'commitID': '2078a639561f8294b85ed187a28acd3b8f4348f2',
+  'label': false
+}

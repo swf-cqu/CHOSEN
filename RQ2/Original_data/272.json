@@ -1,0 +1,31 @@
+{
+  "classFile": "BigDecimalLocaleConverterTestCase",
+  "className": "BigDecimalLocaleConverterTestCase",
+  "packages": "org.apache.commons.beanutils.locale.converters",
+  "methodInfos": [
+    {
+      "md5": "ghbKoCQ8/s0tkMVRRpp92g==",
+      "methodName": "setUp",
+      "parameters": "[]"
+    },
+    {
+      "md5": "IvtnFD1zZtnTVXVWrYx9fA==",
+      "methodName": "tearDown",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    43,
+    56
+  ],
+  "delLines": [],
+  "type": "MODIFY",
+  "path": "src/test/java/org/apache/commons/beanutils/locale/converters/BigDecimalLocaleConverterTestCase.java",
+  "pro_Commit": "7d805bdcc99a29c764471bb3ace7e1a14fca6a39",
+  "pro_Date": "2013-03-09 06:30:51",
+  "sha1": "43fd35bb3edb2580db38632af2745a07591dcf07",
+  "file_Date": "2013-03-09 06:30:51",
+  "projectName": "commons-beanutils",
+  "commitID": "7d805bdcc99a29c764471bb3ace7e1a14fca6a39",
+  "label": false
+}

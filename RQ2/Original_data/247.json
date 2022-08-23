@@ -1,0 +1,36 @@
+{
+  "classFile": "EnumWriterTest",
+  "className": "EnumWriterTest",
+  "packages": "com.squareup.javawriter",
+  "methodInfos": [
+    {
+      "md5": "u+BEkgXD4A+6FWnpN+RXBA==",
+      "methodName": "constantsWithConstructorArguments",
+      "parameters": "[]"
+    },
+    {
+      "md5": "w3OWND6obpYogg4voxMW8w==",
+      "methodName": "constantsWithClassBody",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    72,
+    97,
+    103
+  ],
+  "delLines": [
+    72,
+    97,
+    103
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/com/squareup/javawriter/EnumWriterTest.java",
+  "pro_Commit": "1c4d9fc23742b509de93ee71e005260f0ab69606",
+  "pro_Date": "2014-12-14 07:55:44",
+  "sha1": "6c4712f67f52fd73335a7cf07b2b77b845218a4b",
+  "file_Date": "2014-12-16 16:11:36",
+  "projectName": "javapoet",
+  "commitID": "d2ce2872d26e7256b0af74189cacea7b75390b2f",
+  "label": false
+}

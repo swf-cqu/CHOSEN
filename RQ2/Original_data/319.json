@@ -1,0 +1,74 @@
+{
+  'classFile': 'TestAppletConfiguration',
+  'className': 'TestAppletConfiguration',
+  'packages': 'org.apache.commons.configuration.web',
+  'methodInfos': [
+    {
+      'md5': '8fXE/D+xWP6ThpzwXRgQ7w==',
+      'methodName': 'setUp',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'i1ueGnU8O1YLsIhGI3zplw==',
+      'methodName': 'getConfiguration',
+      'parameters': '[]'
+    },
+    {
+      'md5': '675V/cXcb+osn1e/Z0RfMw==',
+      'methodName': 'getEmptyConfiguration',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'QCTIiEQ2sADBTgT6vfn31A==',
+      'methodName': 'testAddPropertyDirect',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'YPTC62d+CVdPrF40788uQw==',
+      'methodName': 'testClearProperty',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    20,
+    21,
+    22,
+    23,
+    24,
+    29,
+    30,
+    36,
+    50,
+    51,
+    65,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    89,
+    109,
+    122,
+    123,
+    140,
+    141
+  ],
+  'delLines': [
+    24,
+    25,
+    26,
+    32,
+    33,
+    47
+  ],
+  'type': 'MODIFY',
+  'path': 'src/test/java/org/apache/commons/configuration/web/TestAppletConfiguration.java',
+  'pro_Commit': '4a58e3a27fdb6ee6204d91132d131c3efd6bc8eb',
+  'pro_Date': '2011-10-18 22:08:51',
+  'sha1': 'bc05d3d9cbd2c3aec799ec0683032674cfa50c02',
+  'file_Date': '2011-12-23 05:32:56',
+  'projectName': 'commons-configuration',
+  'commitID': '60a937eed1ae5a750f833f70f5fce4c1aa2ef015',
+  'label': false
+}

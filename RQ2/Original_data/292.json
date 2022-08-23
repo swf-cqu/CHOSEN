@@ -1,0 +1,31 @@
+{
+  "classFile": "ChainRuleTest",
+  "className": "ChainRuleTest",
+  "packages": "org.ta4j.core.trading.rules",
+  "methodInfos": [
+    {
+      "md5": "OrKNPot0MpdTLFxdKMrHyw==",
+      "methodName": "setUp",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    5,
+    6,
+    21
+  ],
+  "delLines": [
+    5,
+    7,
+    21
+  ],
+  "type": "MODIFY",
+  "path": "ta4j-core/src/test/java/org/ta4j/core/trading/rules/ChainRuleTest.java",
+  "pro_Commit": "94c97ebf0765060240d60b438e9b056a79df4dc6",
+  "pro_Date": "2019-09-26 19:18:31",
+  "sha1": "0c177a0bac571f846a4394fffe6bb7205925c24b",
+  "file_Date": "2019-10-01 12:22:56",
+  "projectName": "ta4j",
+  "commitID": "58e201a9e0adc4fd0e0c59bc714bf38d3ddc3b57",
+  "label": false
+}

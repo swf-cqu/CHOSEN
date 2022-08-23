@@ -1,0 +1,29 @@
+{
+  "classFile": "KolmogorovSmirnovTestTest",
+  "className": "KolmogorovSmirnovTestTest",
+  "packages": "org.apache.commons.math4.stat.inference",
+  "methodInfos": [
+    {
+      "md5": "r6nQJnP/QE6/ebJ55v6K7w==",
+      "methodName": "testFillBooleanArrayRandomlyWithFixedNumberTrueValues",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    28,
+    647
+  ],
+  "delLines": [
+    28,
+    647
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/apache/commons/math4/stat/inference/KolmogorovSmirnovTestTest.java",
+  "pro_Commit": "d442a770f2ea6b8c0b50a001b1ef1d92511e9832",
+  "pro_Date": "2017-05-22 06:54:01",
+  "sha1": "66cc38756fa4c317ccda512993f8a466cbc206a6",
+  "file_Date": "2017-05-22 06:54:01",
+  "projectName": "commons-math",
+  "commitID": "d442a770f2ea6b8c0b50a001b1ef1d92511e9832",
+  "label": true
+}

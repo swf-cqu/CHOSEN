@@ -1,0 +1,43 @@
+{
+  "classFile": "JsonParserAsyncTest",
+  "className": "JsonParserAsyncTest",
+  "packages": "com.google.gson",
+  "methodInfos": [
+    {
+      "md5": "HXL416sSW1GGFvi3sLW0Hg==",
+      "methodName": "testParseTwoStrings",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "delLines": [],
+  "type": "ADD",
+  "path": "gson/src/test/java/com/google/gson/JsonParserAsyncTest.java",
+  "pro_Commit": "6e59e502c2461c11d0e6099f10f65c666acabc45",
+  "pro_Date": "2009-05-15 04:18:45",
+  "sha1": "648400e080e4496a737ea78193e295a4e7775975",
+  "file_Date": "2009-05-15 04:18:45",
+  "projectName": "gson",
+  "commitID": "6e59e502c2461c11d0e6099f10f65c666acabc45",
+  "label": true
+}

@@ -1,0 +1,17 @@
+{
+    "classFile": "BicubicInterpolatorTest",
+    "className": "BicubicInterpolatorTest",
+    "packages": "org.apache.commons.math4.analysis.interpolation",
+    "methodInfos": [],
+    "addLines": [24, 25],
+    "delLines": [24, 25],
+    "type": "MODIFY",
+    "path": "src/test/java/org/apache/commons/math4/analysis/interpolation/BicubicInterpolatorTest.java",
+    "pro_Commit": "8d9ddbca5f9aacf8e2aeb7b2ea0f100ac1b058ff",
+    "pro_Date": "2015-04-10 23:45:37",
+    "sha1": "bc3b7d2474256e815450b1c26e2e2e8febc6ba83",
+    "file_Date": "2016-08-18 09:15:39",
+    "projectName": "commons-math",
+    "commitID": "eeeb553cea4d90fb34fd314f943b206284dfc89b",
+    "label": false
+}

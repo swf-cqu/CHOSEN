@@ -1,0 +1,73 @@
+{
+  "classFile": "PagedTest",
+  "className": "PagedTest",
+  "packages": "org.cactoos.iterable",
+  "methodInfos": [
+    {
+      "md5": "C93Wgk9LD45yfFh1hMNnhA==",
+      "methodName": "containAllPagedContentInOrder",
+      "parameters": "[]"
+    },
+    {
+      "md5": "VXaf+1ZZCsFpmDeMpedq4g==",
+      "methodName": "reportTotalPagedLength",
+      "parameters": "[]"
+    },
+    {
+      "md5": "0KVnXIC/GGT12e2BEGVzMA==",
+      "methodName": "throwsNoSuchElement",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    27,
+    28,
+    31,
+    37,
+    47,
+    48,
+    52,
+    55,
+    71,
+    72,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119
+  ],
+  "delLines": [
+    43,
+    44,
+    48,
+    51,
+    52,
+    68,
+    69
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/cactoos/iterable/PagedTest.java",
+  "pro_Commit": "12cb3e8c6e092318ba87d5466958687ce8cd14c5",
+  "pro_Date": "2020-09-11 23:33:10",
+  "sha1": "a91beea2ae49fa481319f86226c8f898d4bed37f",
+  "file_Date": "2020-09-11 23:37:22",
+  "projectName": "cactoos",
+  "commitID": "7277f187d4697e8f412c8cb4d5b02ca6de54cc71",
+  "label": false
+}

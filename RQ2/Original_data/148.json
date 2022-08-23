@@ -1,0 +1,17 @@
+{
+    "classFile": "BigDecimalConverterTestCase",
+    "className": "BigDecimalConverterTestCase",
+    "packages": "org.apache.commons.beanutils2.converters",
+    "methodInfos": [],
+    "addLines": [34, 35, 36, 37, 38, 39, 40, 41, 42, 46, 47, 52, 54, 55, 59, 60, 76, 77, 78, 79, 80, 81, 86, 87, 88, 89, 90],
+    "delLines": [34, 38, 39, 44, 45, 46, 47, 48, 49, 50, 51, 53, 54, 58, 59, 75, 76, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150],
+    "type": "MODIFY",
+    "path": "src/test/java/org/apache/commons/beanutils2/converters/BigDecimalConverterTestCase.java",
+    "pro_Commit": "24c4ff6140353a21eb1ed9bc2bdd229a6665bfe9",
+    "pro_Date": "2017-12-28 04:27:35",
+    "sha1": "93a0de67b4d26f19d6d91122a4ed7bc4c6cfd111",
+    "file_Date": "2019-10-23 05:08:51",
+    "projectName": "commons-beanutils",
+    "commitID": "893b769d4136282ba26dfff92a1c67e443de8f7f",
+    "label": false
+}

@@ -1,0 +1,67 @@
+{
+  'classFile': 'TransformedCollectionTest',
+  'className': 'TransformedCollectionTest',
+  'packages': 'org.apache.commons.collections.collection',
+  'methodInfos': [
+    {
+      'md5': 'ZlqEIQbdvSKvwHuuubgxQw==',
+      'methodName': 'TransformedCollectionTest',
+      'parameters': '[final String testName]'
+    },
+    {
+      'md5': '0q9FCKC4OQSsYvIJLB02OQ==',
+      'methodName': 'makeConfirmedFullCollection',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'RAOaLKxJeRIv21OZQBbJFw==',
+      'methodName': 'makeFullCollection',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'YBUuk2DwRO1LpFs06xQ6+Q==',
+      'methodName': 'testTransformedCollection',
+      'parameters': '[]'
+    },
+    {
+      'md5': 'DsADqMFPgQDKfVahzJyT+g==',
+      'methodName': 'testTransformedCollection_decorateTransform',
+      'parameters': '[]'
+    }
+  ],
+  'addLines': [
+    37,
+    45,
+    57,
+    69,
+    87,
+    89,
+    101,
+    102,
+    103,
+    106,
+    108
+  ],
+  'delLines': [
+    37,
+    45,
+    57,
+    69,
+    87,
+    89,
+    101,
+    102,
+    103,
+    106,
+    108
+  ],
+  'type': 'MODIFY',
+  'path': 'src/test/java/org/apache/commons/collections/collection/TransformedCollectionTest.java',
+  'pro_Commit': '9aea104d8abb2269d032e13b70edc9d94c2cb2e9',
+  'pro_Date': '2013-01-08 01:15:14',
+  'sha1': 'bdb85c8f1e8807e6537391c430597265ba4da6bc',
+  'file_Date': '2013-01-08 01:15:14',
+  'projectName': 'commons-collections',
+  'commitID': '9aea104d8abb2269d032e13b70edc9d94c2cb2e9',
+  'label':false
+}

@@ -1,0 +1,17 @@
+{
+    "classFile": "TestWhileGenerate",
+    "className": "TestWhileGenerate",
+    "packages": "org.apache.commons.functor.generator.loop",
+    "methodInfos": [],
+    "addLines": [115],
+    "delLines": [115],
+    "type": "MODIFY",
+    "path": "core/src/test/java/org/apache/commons/functor/generator/loop/TestWhileGenerate.java",
+    "pro_Commit": "0e350c99f84e784936ca574079c04b56ce16227b",
+    "pro_Date": "2013-09-12 12:29:46",
+    "sha1": "00d7a8d2edc3dbbe14eee94db40a23c81d8584fe",
+    "file_Date": "2013-11-14 02:54:05",
+    "projectName": "commons-functor",
+    "commitID": "a4c8160726a1abb87560c568861719dfe3698379",
+    "label": false
+}

@@ -1,0 +1,27 @@
+{
+  "classFile": "SphereTest",
+  "className": "SphereTest",
+  "packages": "org.apache.commons.geometry.euclidean.threed.shape",
+  "methodInfos": [
+    {
+      "md5": "GNisJHudpp9Tk3gGp8iqlA==",
+      "methodName": "testToTree_multipleSubdivisionCounts",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    328
+  ],
+  "delLines": [
+    328
+  ],
+  "type": "MODIFY",
+  "path": "commons-geometry-euclidean/src/test/java/org/apache/commons/geometry/euclidean/threed/shape/SphereTest.java",
+  "pro_Commit": "0e6a7f48b449675ef1391e8491efc4a826a41bf3",
+  "pro_Date": "2020-08-10 19:32:38",
+  "sha1": "b89327f3dedb5b4bc84cd7b16965ef6ecc655edb",
+  "file_Date": "2020-12-29 06:10:18",
+  "projectName": "commons-geometry",
+  "commitID": "1b2dc3a63b5d92262aa4678b33935fada3b63ff1",
+  "label": false
+}

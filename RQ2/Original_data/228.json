@@ -1,0 +1,80 @@
+{
+  "classFile": "TestFileLocator",
+  "className": "TestFileLocator",
+  "packages": "org.apache.commons.configuration2.io",
+  "methodInfos": [
+    {
+      "md5": "DS3YUjfvbXZ0ZeRTXjF9sA==",
+      "methodName": "testCreateFileLocatorUndefined",
+      "parameters": "[]"
+    },
+    {
+      "md5": "3QT4BzlYRlEN9mjuasFT7A==",
+      "methodName": "checkLocator",
+      "parameters": "[final FileLocator locator]"
+    },
+    {
+      "md5": "EmeMGWidbs0+tQltyJFSXw==",
+      "methodName": "testCreateFileLocator",
+      "parameters": "[]"
+    },
+    {
+      "md5": "+rLgyNa4VyOTvSgM1TipEg==",
+      "methodName": "testCreateFileLocatorFromSource",
+      "parameters": "[]"
+    },
+    {
+      "md5": "cVW6OGcCioFUyw3UenKq4g==",
+      "methodName": "testFileLocatorEqualsFalse",
+      "parameters": "[]"
+    },
+    {
+      "md5": "ErbQ63U2wVNNFx0nawKcXQ==",
+      "methodName": "testFileLocatorEqualsNull",
+      "parameters": "[]"
+    },
+    {
+      "md5": "ynLpn4c4nHlG8Z5WU3bK/Q==",
+      "methodName": "testFileLocatorEqualsOtherClass",
+      "parameters": "[]"
+    },
+    {
+      "md5": "AkUumRGOO+zUpruhp+hGWg==",
+      "methodName": "testFileLocatorToString",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    73,
+    87,
+    105,
+    119,
+    124,
+    161,
+    206,
+    217,
+    228,
+    233
+  ],
+  "delLines": [
+    73,
+    87,
+    105,
+    119,
+    124,
+    161,
+    206,
+    217,
+    228,
+    233
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/apache/commons/configuration2/io/TestFileLocator.java",
+  "pro_Commit": "fa5dbfaf68973a204dc09acb42909ff5bd39ff70",
+  "pro_Date": "2018-09-28 06:24:23",
+  "sha1": "f2ade119750267a967dd3bd036b94bbc7dd32a40",
+  "file_Date": "2018-09-28 06:24:23",
+  "projectName": "commons-configuration",
+  "commitID": "fa5dbfaf68973a204dc09acb42909ff5bd39ff70",
+  "label": false
+}

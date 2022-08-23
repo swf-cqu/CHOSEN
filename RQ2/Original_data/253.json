@@ -1,0 +1,29 @@
+{
+  "classFile": "EigenDecompositionImplTest",
+  "className": "EigenDecompositionImplTest",
+  "packages": "org.apache.commons.math.linear",
+  "methodInfos": [
+    {
+      "md5": "NqktPR6sdBdMKQJViUaZZw==",
+      "methodName": "testMath308",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    129,
+    130
+  ],
+  "delLines": [
+    129,
+    130
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/apache/commons/math/linear/EigenDecompositionImplTest.java",
+  "pro_Commit": "95627968c1d078f49d5b7feaab84e050130769ab",
+  "pro_Date": "2010-02-16 19:12:55",
+  "sha1": "1508e097ea62038e0b74219348ecadbcc8c18c44",
+  "file_Date": "2010-02-16 19:12:55",
+  "projectName": "commons-math",
+  "commitID": "95627968c1d078f49d5b7feaab84e050130769ab",
+  "label": true
+}

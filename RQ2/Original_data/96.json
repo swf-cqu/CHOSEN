@@ -1,0 +1,21 @@
+{
+    'classFile': 'AverageHighLowIndicatorTest',
+    'className': 'AverageHighLowIndicatorTest',
+    'packages': 'eu.verdelhan.ta4j.indicators.simple',
+    'methodInfos': [{
+        'md5': 'wwtFLUxEuO1AAg3h+0OPHw==',
+        'methodName': 'indicatorShouldRetrieveTickClosePrice',
+        'parameters': '[]'
+    }],
+    'addLines': [61],
+    'delLines': [61],
+    'type': 'MODIFY',
+    'path': 'src/test/java/eu/verdelhan/ta4j/indicators/simple/AverageHighLowIndicatorTest.java',
+    'pro_Commit': 'ccab64f25b47346931bad44b2ed2f5277b459802',
+    'pro_Date': '2014-02-19 18:10:46',
+    'sha1': 'e113953f3a625947d06a9cdfe671e4637dbe9241',
+    'file_Date': '2014-04-18 21:46:41',
+    'projectName': 'ta4j',
+    'commitID': 'ee726650676b10ee2fc94c2b544c1b32c543ed88',
+    'label': false
+}

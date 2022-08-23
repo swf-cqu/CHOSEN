@@ -1,0 +1,28 @@
+{
+  "classFile": "BlockFieldMatrixTest",
+  "className": "BlockFieldMatrixTest",
+  "packages": "org.apache.commons.math.linear",
+  "methodInfos": [
+    {
+      "md5": "npTF4tsurUO5ppQQYyyy1A==",
+      "methodName": "testWalk",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    25,
+    1201
+  ],
+  "delLines": [
+    1200
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/org/apache/commons/math/linear/BlockFieldMatrixTest.java",
+  "pro_Commit": "f3d957dfbe751df8c15f9435819fc62469c6ad88",
+  "pro_Date": "2010-11-13 01:53:50",
+  "sha1": "ede67acdfd215475492f547fe1964edc1befca8f",
+  "file_Date": "2010-11-21 05:01:50",
+  "projectName": "commons-math",
+  "commitID": "4f05aa7d181a279ef82b268f9a441b16d5505d70",
+  "label": true
+}

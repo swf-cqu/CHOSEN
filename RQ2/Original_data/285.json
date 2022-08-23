@@ -1,0 +1,34 @@
+{
+  "classFile": "SerializableTypeTest",
+  "className": "SerializableTypeTest",
+  "packages": "com.j256.ormlite.field.types",
+  "methodInfos": [
+    {
+      "md5": "45u+rnExTh8EmkKnWtJqBg==",
+      "methodName": "testSerializableNoValue",
+      "parameters": "[]"
+    },
+    {
+      "md5": "AU7L4P+JdxUiKd7ZJuDl6g==",
+      "methodName": "testSerializableInvalidResult",
+      "parameters": "[]"
+    }
+  ],
+  "addLines": [
+    73,
+    101
+  ],
+  "delLines": [
+    73,
+    101
+  ],
+  "type": "MODIFY",
+  "path": "src/test/java/com/j256/ormlite/field/types/SerializableTypeTest.java",
+  "pro_Commit": "35832fab6a0f6979a2f8693a503f8fb0c2eb9484",
+  "pro_Date": "2015-02-17 03:59:17",
+  "sha1": "9a15b897f29bf9366c587d0825c3bb39e2623c51",
+  "file_Date": "2016-06-08 12:00:38",
+  "projectName": "ormlite-core",
+  "commitID": "40e14866dcc377f7aa5654c609c42946ef20c8ab",
+  "label": false
+}

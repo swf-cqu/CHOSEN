@@ -1,0 +1,21 @@
+{
+    "classFile": "RealVectorTest",
+    "className": "RealVectorTest",
+    "packages": "org.apache.commons.math3.linear",
+    "methodInfos": [{
+        "md5": "GzmWzLoI2AQ9J8vZEO0B6Q==",
+        "methodName": "testBasicFunctions",
+        "parameters": "[]"
+    }],
+    "addLines": [186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198],
+    "delLines": [],
+    "type": "MODIFY",
+    "path": "src/test/java/org/apache/commons/math3/linear/RealVectorTest.java",
+    "pro_Commit": "af78040b501b51b6af4d1887a37df41341664426",
+    "pro_Date": "2012-05-29 13:34:41",
+    "sha1": "dc98ebbb0967e7b8b44bd8eb70fff4a3fc73a57d",
+    "file_Date": "2012-06-02 13:34:40",
+    "projectName": "commons-math",
+    "commitID": "9b78d1ed4c2644949d057e1f236184e134f9cfa9",
+    "label": false
+}

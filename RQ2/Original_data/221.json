@@ -1,0 +1,55 @@
+{
+  "classFile": "DoublesSketchTest",
+  "className": "DoublesSketchTest",
+  "packages": "com.yahoo.sketches.quantiles",
+  "methodInfos": [
+    {
+      "md5": "DVJl/AaIWixR+Pbcpvi33g==",
+      "methodName": "checkToByteArray",
+      "parameters": "[]"
+    },
+    {
+      "md5": "MDelmpig9wayJK6X1EWI4g==",
+      "methodName": "printlnTest",
+      "parameters": "[]"
+    },
+    {
+      "md5": "zi6JpfxJu1jpDrCNU9+byA==",
+      "methodName": "println",
+      "parameters": "[String s]"
+    }
+  ],
+  "addLines": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+  ],
+  "delLines": [],
+  "type": "MODIFY",
+  "path": "sketches/src/test/java/com/yahoo/sketches/quantiles/DoublesSketchTest.java",
+  "pro_Commit": "32d8da62b08d71310baaaac27498b710196685a2",
+  "pro_Date": "2017-02-15 08:16:51",
+  "sha1": "2469734d566b11880a94ce9bcc8da956a4972c24",
+  "file_Date": "2017-02-22 10:23:00",
+  "projectName": "datasketches-java",
+  "commitID": "bf4329c58470e69b579dfc3f224be79e92c1c24b",
+  "label": false
+}

@@ -1,0 +1,21 @@
+{
+  'classFile': 'JmsMessageTest',
+  'className': 'JmsMessageTest',
+  'packages': 'org.apache.qpid.jms.message',
+  'methodInfos': [],
+  'addLines': [
+    39
+  ],
+  'delLines': [
+    37
+  ],
+  'type': 'MODIFY',
+  'path': 'qpid-jms-client/src/test/java/org/apache/qpid/jms/message/JmsMessageTest.java',
+  'pro_Commit': '19b378bee95c6fa62874790e4280596cafdf8aa4',
+  'pro_Date': '2014-10-01 00:15:14',
+  'sha1': 'a60b6762436e7fdfd14e6bea28bb99158719d4cb',
+  'file_Date': '2014-10-01 06:43:15',
+  'projectName': 'qpid-jms',
+  'commitID': '9064cc8a515f05475f90fbdb2b920dd29b148bfa',
+  'label': false
+}
