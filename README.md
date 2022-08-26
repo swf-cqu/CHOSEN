@@ -6,6 +6,10 @@ SITAR
 |____OpenData_kfold.ipynb: the source code can replicate the published results of SITAR.
 ```
 
+```
+CHOSEN folder: Project Code
+```
+
 
 ## RQ1: Empirical Study
 ```
