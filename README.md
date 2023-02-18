@@ -1,4 +1,4 @@
-## SITAR Replication Results 
+## SITAR Replication Results
 
 ```
 SITAR
@@ -72,4 +72,11 @@ RQ4.2
 RQ4.3
 |___SITAR: the training set identified by SITAR_IM.
 |___SITAR_CHOSEN: the training set identified by CHOSEN.
+```
+
+## Discussion
+```
+Non_Modification_Sample: the dataset about **Strategy 1 in Stage 2** in Section 5.2.2
+|___Sample corresponding to the type of product/test change
+|___Sample: Randomly selected samples.
 ```

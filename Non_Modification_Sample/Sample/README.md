@@ -1,0 +1,11 @@
+production, test, PT-co-evolution
+Add, Rename, True
+Modification, Add, True      
+Modification, Add, True      
+Modification, Add, True      
+Modification, Add, True      
+Modification, Add, True      
+Modification, Add, True      
+Modification, Add, True      
+Modification, COPY, True     
+Modification, RENAME, True   
