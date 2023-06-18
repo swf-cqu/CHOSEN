@@ -6,10 +6,6 @@ SITAR
 |____OpenData_kfold.ipynb: the source code can replicate the published results of SITAR.
 ```
 
-```
-CHOSEN folder: Project Code
-```
-
 
 ## RQ1: Empirical Study
 ```
@@ -37,7 +33,6 @@ RQ3
 |___project_name
 |___|___Train: original training set.
 |___|___TestSample: the sampled testing set.
-|___TimeLine_newdata_SITAR.ipynb: The source code for RQ3.
 ```
 TestSample folder:
 * label: the label identified by SITAR_IM.
@@ -52,7 +47,6 @@ RQ4.1
 |___project_name
 |___|___Train: original training set.
 |___|___TestSample_Rule: the corrected testing set.
-|___TimeLine_newdata_SITAR.ipynb: The source code for RQ4.1.
 ```
 TestSample_Rule folder:
 * label: the label identified by SITAR_IM.
